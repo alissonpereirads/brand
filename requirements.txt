@@ -1,0 +1,11 @@
+langchain
+langchain-experimental
+langchain_groq
+pandas
+streamlit==1.43.2
+protobuf==4.25.3
+python-dotenv
+openpyxl
+tabulate
+xlrd
+openpyxl
